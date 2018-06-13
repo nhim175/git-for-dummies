@@ -5,3 +5,7 @@ function getUsers() {
 function createLesson(data) {
   return true;
 }
+
+function sayHello() {
+  return 'hello';
+}
